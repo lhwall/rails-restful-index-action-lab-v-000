@@ -168,3 +168,4 @@ Migrating to CreateStudents (1)
   [1m[36m (2.0ms)[0m  [1mcommit transaction[0m
 DEPRECATION WARNING: Defining a route where `to` is a controller without an action is deprecated. Please change `to: 'students'` to `controller: 'students'`. (called from block in <top (required)> at /home/lhwall/rails-restful-index-action-lab-v-000/config/routes.rb:3)
 DEPRECATION WARNING: Defining a route where `to` is a controller without an action is deprecated. Please change `to: 'students'` to `controller: 'students'`. (called from block in <top (required)> at /home/lhwall/rails-restful-index-action-lab-v-000/config/routes.rb:3)
+DEPRECATION WARNING: Defining a route where `to` is a controller without an action is deprecated. Please change `to: 'students'` to `controller: 'students'`. (called from block in <top (required)> at /home/lhwall/rails-restful-index-action-lab-v-000/config/routes.rb:3)
